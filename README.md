@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello World! 👋🏽
 
-<!--
-**mattosluis/mattosluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ > More than focusing on the tools used I want to be able to understand the big picture and solve the problems
 
-Here are some ideas to get you started:
+Currently working in the analytics team on @RDStation empowering our clients to perform analysis of results on our platform through analytical reports on screens, APIs and other assets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏽‍💻 In daily basis I use
+ - React.js
+ - Monorepo (Lerna)
+ - Automated tests (react-testing-library)
+ - CI/CD
+ - Atomic design
+
+### :mailbox: Reach me on
+ - [Linkedin](https://www.linkedin.com/in/mattos-luis/)
