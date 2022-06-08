@@ -1,4 +1,4 @@
-## Hello World! 👋🏽
+## Hello World! 😎
 
  > More than focusing on the tools used I want to be able to understand the big picture and solve the problems
 
